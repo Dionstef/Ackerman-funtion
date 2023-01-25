@@ -1,5 +1,5 @@
 # Ackerman-funtion
-This is a recursive implementation of the ackerman’s function which is defined as:
+This is a recursive implementation of the ackerman’s function, which is defined as:
 
 if m and n are integers, where n >=0 and m >=0,
 then ack(m,n) = n+1, if m == 0;
